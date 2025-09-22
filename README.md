@@ -20,3 +20,15 @@ The project highlights:
   - Diagnosis details (date, type of cancer, hospital, physician)
   - Outcomes (recovered, under treatment, deceased)
   - Lifestyle factors (smoking, comorbidities, weight, height)
+
+
+## 📊 Analysis Sheets
+1. **Demographic analysis** → Age, gender, nationality, and emirate-based breakdown.  
+2. **Disease specific analysis** → Cancer type prevalence and trends.  
+3. **Treatment & outcomes** → Recovery vs. mortality patterns.  
+4. **Survival & Mortality** → Survival rates across different cancers and age groups.  
+5. **Behavioural & Risk factors** → Impact of smoking and comorbidities.  
+6. **Healthcare Analysis** → Distribution of cases across hospitals and physicians.  
+7. **Dashboards** → Interactive summaries combining all findings.
+
+
